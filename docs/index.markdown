@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+# Coming Soon! 
+
+- Papers 
+- Podcasts 
+- Plog (plasma blog)
