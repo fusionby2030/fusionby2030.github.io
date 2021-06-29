@@ -1,6 +1,9 @@
+---
 layout: page 
 title: "Home"
 permalink: /home/
+---
+
 
 # Fusionby2030
 
